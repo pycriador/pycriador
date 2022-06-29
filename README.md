@@ -11,7 +11,7 @@ Se tiver alguma dúvida ou queira ajudar, só mandar um e-mail pro suporte :) py
     - 03 - Março: Converter CSV em XLSX (https://github.com/pycriador/PyCSVtoXLSX/blob/main/%5BUpload%5D_PyJoinCSV.ipynb)
     - 04 - Abril: Busca por similaridade (https://github.com/pycriador/PyNLTK/blob/main/%5BUpload%5D_PyNLTK_Busca_por_similaridade.ipynb)
     - 05 - Maio: Geração automática de logs e multi processos (https://github.com/pycriador/PyLog/blob/main/pyLog.ipynb)
-    - 06 - Junho: Converter CSV e XLSX em SQLite (https://github.com/pycriador/PyCSVtoXLSX/blob/main/pyCSVtoSQL.ipynb)
+    - 06 - Junho: Converter CSV e XLSX em SQLite (https://github.com/pycriador/PyCSVtoSQL/blob/main/pyCSVtoSQL.ipynb)
     - 07 - Julho: 
     - 08 - Agosto:
     - 09 - Setembro:
