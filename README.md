@@ -13,7 +13,7 @@ Se tiver alguma dúvida ou queira ajudar, só mandar um e-mail pro suporte :) py
     - 05 - Maio: Geração automática de logs e multi processos (https://github.com/pycriador/PyLog/blob/main/pyLog.ipynb)
     - 06 - Junho: Converter CSV e XLSX em SQLite (https://github.com/pycriador/PyCSVtoSQL/blob/main/pyCSVtoSQL.ipynb)
     - 07 - Julho: Algoritmo de Classificação - Naive Bayes (https://github.com/pycriador/PyNaiveBayes/blob/main/PyNaiveBayes.ipynb) 
-    - 08 - Agosto:
+    - 08 - Agosto: Gerador e validador de CPF (https://github.com/pycriador/PyCPF/blob/main/pyCPF.ipynb)
     - 09 - Setembro:
     - 10 - Outubro:
     - 11 - Novembro:
