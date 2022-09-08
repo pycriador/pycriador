@@ -18,3 +18,27 @@ Nesse perfil do #Github, estou publicando um pequeno projeto em Python por mês.
     - 10 - Outubro:
     - 11 - Novembro:
     - 12 - Dezembro:
+
+# Outros projetos
+
+- Logscan -> [PROJETO](https://github.com/wjesus374/logscan)
+- Ipsec Monitor -> [SCRIPT](https://github.com/wjesus374/libreswan_monitor)
+- Net tools -> [SCRIPTS](https://github.com/wjesus374/nettools)
+- FreeIPA -> [SCRIPTS](https://github.com/wjesus374/freeipa_scripts)
+- Telnet Alternative (Python) -> [SCRIPT](https://github.com/wjesus374/alternative_telnet)
+- Get sockets -> [SCRIPTS](https://github.com/wjesus374/sockets_count)
+- Parcer ldirectord -> [SCRIPTS](https://github.com/wjesus374/ldirectord_manager)
+- Ipset Search -> [SCRIPT](https://github.com/wjesus374/ipset)
+- StrongSwan Monitor -> [SCRIPT](https://github.com/wjesus374/strongswan_monitor)
+- LibreSwan Monitor -> [SCRIPT](https://github.com/wjesus374/libreswan_monitor)
+
+# Zabbix
+
+- Zabbix Mikrotik -> [SCRIPTS](https://github.com/wjesus374/linet.mikrotik)
+- Zabbix API -> [EXEMPLOS](https://github.com/wjesus374/zabbix_api)
+- Zabbix/LLD Get SSL -> [SCRIPTS](https://github.com/wjesus374/https_getcert)
+- Zabbix/LLD Notificações -> [SCRIPTS](https://github.com/wjesus374/zabbix_lld)
+
+# Shell
+
+- Simple logrotate -> [SCRIPTS](https://github.com/wjesus374/simple_logrotate)
