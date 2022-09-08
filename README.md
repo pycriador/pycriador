@@ -1,9 +1,12 @@
 # Bem vindo(a)!
 
-Nesse perfil do #Github, estou publicando um pequeno projeto em Python por mês.
+Meu perfil profissional para publicar pequenos projetos do meu dia-a-dia!
 
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&labelColor=c14438&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCLkLSvBxYl07ss-okgPGjgA)](https://www.youtube.com/channel/UCLkLSvBxYl07ss-okgPGjgA)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-oliveira-65a44527/)](https://www.linkedin.com/in/willian-oliveira-65a44527/)
+
+O objetivo é publicar um pequeno projeto em #Python todos os meses, utilizando #Pandas, #Selenium, #JSON, #Flask, #SQLAlchemy, #nltk e #openpyxl ou #XlsxWriter.
+
 - Projetos:
   - 2022
     - 01 - Janeiro: Geração de relatórios aleatórios com Faker -> [PROJETO](https://github.com/pycriador/PyFaker/blob/main/pyFaker.ipynb)
