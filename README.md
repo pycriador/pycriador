@@ -23,7 +23,8 @@ O objetivo é publicar um pequeno projeto em #Python todos os meses, utilizando 
     - 12 - Dezembro:
 
 # Outros projetos
-
+- API databricks -> [SCRIPT](https://github.com/pycriador/databricks-api)
+- Desafio Loft -> [PROJETO](https://github.com/pycriador/pyJumpCloud)
 - Logscan -> [PROJETO](https://github.com/wjesus374/logscan)
 - Ipsec Monitor -> [SCRIPT](https://github.com/wjesus374/libreswan_monitor)
 - Net tools -> [SCRIPTS](https://github.com/wjesus374/nettools)
