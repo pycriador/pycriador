@@ -16,7 +16,7 @@ O objetivo é publicar um pequeno projeto em #Python todos os meses, utilizando 
     - 05 - Maio: Geração automática de logs e multi processos -> [PROJETO](https://github.com/pycriador/PyLog/blob/main/pyLog.ipynb)
     - 06 - Junho: Converter CSV e XLSX em SQLite -> [PROJETO](https://github.com/pycriador/PyCSVtoSQL/blob/main/pyCSVtoSQL.ipynb)
     - 07 - Julho: Algoritmo de Classificação - Naive Bayes -> [PROJETO](https://github.com/pycriador/PyNaiveBayes/blob/main/PyNaiveBayes.ipynb) 
-    - 08 - Agosto: Gerador e validador de CPF -> [PROJETO](https://github.com/pycriador/PyCPF/blob/main/pyCPF.ipynb)
+    - 08 - Agosto: Gerador e validador de CPF -> [PROJETO](https://github.com/pycriador/PyCPF/blob/main/pySendEmail.ipynb)
     - 09 - Setembro: Gerador de bases com valores aleatórios -> [PROJETO](https://github.com/pycriador/pyDataGen/blob/main/pyDataGen.ipynb)
     - 10 - Outubro:
     - 11 - Novembro:
