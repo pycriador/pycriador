@@ -18,9 +18,9 @@ O objetivo é publicar um pequeno projeto em #Python todos os meses, utilizando 
     - 07 - Julho: Algoritmo de Classificação - Naive Bayes -> [PROJETO](https://github.com/pycriador/PyNaiveBayes/blob/main/PyNaiveBayes.ipynb) 
     - 08 - Agosto: Gerador e validador de CPF -> [PROJETO](https://github.com/pycriador/PyCPF/blob/main/pySendEmail.ipynb)
     - 09 - Setembro: Gerador de bases com valores aleatórios -> [PROJETO](https://github.com/pycriador/pyDataGen/blob/main/pyDataGen.ipynb)
-    - 10 - Outubro:
-    - 11 - Novembro:
-    - 12 - Dezembro:
+    - 10 - Outubro: (sem projeto)
+    - 11 - Novembro: (sem projeto)
+    - 12 - Dezembro: (sem projeto)
 
 # Outros projetos
 - API databricks -> [SCRIPT](https://github.com/pycriador/databricks-api)
