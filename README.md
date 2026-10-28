@@ -24,6 +24,10 @@ Comecei com notebooks em Python: planilhas, logs, classificação e bases sinté
 
 `Observar` &nbsp;→&nbsp; `Modelar` &nbsp;→&nbsp; `Construir` &nbsp;→&nbsp; `Publicar` &nbsp;→&nbsp; `Repetir`
 
+<br />
+
+[![272 contribuições no último ano. Mapa mensal de 2026 a 2022.](./assets/contributions.svg)](https://github.com/pycriador)
+
 </div>
 
 ## Como gero valor
